@@ -12,7 +12,7 @@
                           Google AdWords, Facebook Ads Etc...We provide a full range of Digital Marketing Solution
                           to your Business, our expert team not only do what you say but analysis your complete
                           concept and advice them to take the right action, which in return help your Business
-                          grow simultaneously with "RPLTechno"
+                          grow simultaneously with "RPLTechno".
                  </p>
             </div>          
         </div>
