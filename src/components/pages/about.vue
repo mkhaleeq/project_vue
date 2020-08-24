@@ -9,7 +9,7 @@
                           We help the Organisation to grow their Business through the moderen techniques 
                           by bringing them in Digital and Advising them the growing strategy of their business
                           by offering services like SEO, SEM and complete Digital Marketing, Social Media Marketing,
-                          Google AdWords, Facebook Ads Etc...We provide a full range of Digital Marketing Solution
+                          Google AdWords, Facebook Ads Etc....We provide a full range of Digital Marketing Solution
                           to your Business, our expert team not only do what you say but analysis your complete
                           concept and advice them to take the right action, which in return help your Business
                           grow simultaneously with "RPLTechno".
