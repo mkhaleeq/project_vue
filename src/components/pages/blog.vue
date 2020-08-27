@@ -227,7 +227,7 @@ color: #FFFFFF;
 opacity: 1;  
 }
 #react{ 
-    padding-top: 100px;
+    padding-top: 95px;
     margin-top:50px; 
      top: 1312px;
 margin-left: 40px;
@@ -238,10 +238,12 @@ border-radius: 12px;
 opacity: 1; 
 }
 #box{ 
+    padding-top: 0px;
+    margin-top: -10px;
     top: 1314px;
 margin-left:40px;
 width: 275px;
-height: 280px;
+height: 278px;
 background: #FFFFFF 0% 0% no-repeat padding-box;
 box-shadow: 0px 9px 9px #00000029;
 border-radius: 13px;
@@ -288,7 +290,7 @@ opacity: 1px;
 }
 #angular{
     padding-top:120px;
-    margin-top:100px;
+    margin-top:80px;
     top: 1312px;
 margin-left: 40px;
 width: 281px;
@@ -299,6 +301,7 @@ opacity: 1;
 }
 #box1{
     top: 1314px;
+    margin-top: -10px;
     margin-left: 40px;
 left: 43px;
 width: 275px;
@@ -322,7 +325,7 @@ opacity: 1;
 }
 .container3 p{
     top: 2139px;
-    margin-top:65px;
+    margin-top:70px;
     margin-left: 22px;
 left: 61px;
 width: 239px;
